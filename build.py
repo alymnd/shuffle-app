@@ -71,7 +71,7 @@ page("support.html", "en", "Support – Shuffle", "Help and contact for the Shuf
 <h2>Apple TV</h2>
 <p>Open Control Center, tap Screen Mirroring and choose your Apple TV. Shuffle shows a layout made for the TV and your iPhone becomes the remote. Turn off “TV Layout” in Settings to mirror the phone instead.</p>
 <h2>Captions</h2>
-<p>Captions are written by Apple Intelligence on your device and need a device that supports it, with Apple Intelligence turned on. On an album page, “Prepare” writes captions for every photo ahead of time; it keeps going if you leave the app. You can edit, regenerate or remove a caption in a photo's details.</p>
+<p>Captions are written by Apple Intelligence on your device and need a device that supports it, with Apple Intelligence turned on. On an album page, “Prepare” writes captions for every photo ahead of time. Keep Shuffle open while it works (the screen stays on); if you leave the app it pauses and continues when you come back. You can edit, regenerate or remove a caption in a photo's details.</p>
 <h2>Why aren't people named?</h2>
 <p>iOS doesn't give apps the names from the People album in Photos. Shuffle detects faces on your device to count people and to focus the Ken Burns effect, but it can't tell who they are.</p>
 <h2>I only see some of my photos</h2>
@@ -87,7 +87,7 @@ page("de/hilfe.html", "de", "Hilfe – Shuffle", "Hilfe und Kontakt zur App Shuf
 <h2>Apple TV</h2>
 <p>Öffne das Kontrollzentrum, tippe auf „Bildschirmsynchronisierung“ und wähle dein Apple TV. Shuffle zeigt eine eigene TV-Ansicht, und dein iPhone wird zur Fernbedienung. Schalte „TV-Ansicht“ in den Einstellungen aus, um stattdessen das iPhone zu spiegeln.</p>
 <h2>Bildunterschriften</h2>
-<p>Bildunterschriften schreibt Apple Intelligence auf deinem Gerät; dafür braucht es ein unterstütztes Gerät mit eingeschalteter Apple Intelligence. Auf der Seite eines Albums schreibt „Vorbereiten“ die Bildunterschriften für alle Fotos im Voraus und läuft weiter, wenn du die App verlässt. In den Details eines Fotos kannst du eine Bildunterschrift bearbeiten, neu erstellen oder entfernen.</p>
+<p>Bildunterschriften schreibt Apple Intelligence auf deinem Gerät; dafür braucht es ein unterstütztes Gerät mit eingeschalteter Apple Intelligence. Auf der Seite eines Albums schreibt „Vorbereiten“ die Bildunterschriften für alle Fotos im Voraus. Lass Shuffle dabei geöffnet (der Bildschirm bleibt an); verlässt du die App, pausiert es und geht weiter, sobald du zurückkommst. In den Details eines Fotos kannst du eine Bildunterschrift bearbeiten, neu erstellen oder entfernen.</p>
 <h2>Warum werden Personen nicht mit Namen genannt?</h2>
 <p>iOS gibt die Namen aus dem Album „Personen“ der Fotos-App nicht an andere Apps weiter. Shuffle erkennt Gesichter auf deinem Gerät, um Personen zu zählen und den Ken-Burns-Effekt auszurichten, weiß aber nicht, wer sie sind.</p>
 <h2>Ich sehe nur einige Fotos</h2>
